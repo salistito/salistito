@@ -27,7 +27,7 @@ En formato html sería:
 <h2>🥵 About me 🛐</h2>
 
 - I'm currently on fourth year of Computer Science Engineering at FCFM, University of Chile 🍐📚
-- I’m learning Theory of Computation, Data Mining and C++ 🧠⛏️
+- I’m learning Theory of Computation, Data Mining and C++🧠⛏️
 - I'm passionate about creating software, tools to help people, learning new technologies and looking to solve real-world problems 🩹🌎
 
 <!-- Connect with me -->
