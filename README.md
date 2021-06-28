@@ -1,8 +1,8 @@
 <!-- Greeting -->
-<h1 align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Sebastián Salinas</h1>
+<h1 align="center">Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 <!-- Introduction -->
-<h3 align="center">A Computer Science Engineering Student at University of Chile</h3>
+<h3 align="center">I'm Sebastián Salinas, a Computer Science Engineering Student at University of Chile</h3>
 
 <!-- Badgets -->
 <h3 align="center">
@@ -21,53 +21,17 @@ En formato html sería:
 ---
 
  <!-- gif Image -->
-<img src="https://github.com/salistito/salistito/media/life_balance.gif" align="right" alt="side Image" height="auto" width="420" />
+<img src="https://github.com/salistito/salistito/blob/main/media/life_balance.gif" align="right" alt="life_balance.gif" height="auto" width="420" />
 
 <!-- About me -->
-<h2>💻 About Me 🛐</h2>
+<h2>🥵 About me 🛐</h2>
 
 - I'm currently on fourth year of Computer Science Engineering at FCFM, University of Chile 🍐📚
-- I’m learning Theory of Computation, Data Minning and C++ <!--🧠⛏️-->
-- I'm passionate about creating software, tools to help people, learning new technologies and looking to solve real-world problems 🌎🚀
-
-<!-- Tech Stack -->
-<h2>Tech Stack</h2>
-
-<h3>Languages</h3>
-
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-<!-- <br /> -->
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B)&nbsp;
-![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=R)&nbsp;
-
-<h3>Tools</h3>
-
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=PyCharm)&nbsp;
-![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-05122A?style=flat&logo=IntelliJIDEA)&nbsp;
-<!-- ![Office](https://img.shields.io/badge/-Office-05122A?style=flat&logo=Office)&nbsp;-->
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;
-![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
-<!-- 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jQuery)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
--->
-
+- I’m learning Theory of Computation, data Mining and C++ 🧠⛏️
+- I'm passionate about creating software, tools to help people, learning new technologies and looking to solve real-world problems 🩹🌎
 
 <!-- Connect with me -->
-<h2>😳 Connect with me 🤝</h2>
+<h2>🤝 Connect with me 😳</h2>
 <p>
 <a href="mailto:sebastian.salinas.r@ug.uchile.cl"><img align="center" alt="gmail" height="30" width="40"
 src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" /></a>
@@ -87,21 +51,59 @@ src=https://camo.githubusercontent.com/f4b401dd7cd9b7840fd31acafd49e151a80e4c960
 
 ---
 
+<!-- Tech Stack -->
+<h2>💻 Tech Stack 🔋</h2>
+
+<h3>⌨️ Languages 🖥️</h3>
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+<!-- <br /> -->
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=PostgreSQL)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B)&nbsp;
+![R](https://img.shields.io/badge/-R-05122A?style=flat&logo=R)&nbsp;
+
+<h3>⚙️ Tools 🛠️</h3>
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=PyCharm)&nbsp;
+![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-05122A?style=flat&logo=IntelliJIDEA)&nbsp;
+<!-- ![Office](https://img.shields.io/badge/-Office-05122A?style=flat&logo=Office)&nbsp;-->
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;
+![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp;
+<!-- 
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
+![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jQuery)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+-->
+
+---
+
 <!-- GitHub Stats -->
-<h2>🚀 GitHub Stats 📈</h2>
+<h2>📈 GitHub Stats 📊</h2>
 
 [![salistito's top languages](https://github-readme-stats.vercel.app/api/top-langs?username=salistito&theme=blue-green&show_icons=true&locale=en&layout=compact)](https://github.com/salistito)
 <br>
-[![salistito's github stats](https://github-readme-stats.vercel.app/api?username=salistito&theme=blue-green)](https://github.com/salistito)
+[![salistito's github stats](https://github-readme-stats.vercel.app/api?username=salistito&count_private=true&hide=contribs,issues&show_icons=true&theme=blue-green)](https://github.com/salistito)
 [![salistito's github streak](https://github-readme-streak-stats.herokuapp.com/?user=salistito&theme=blue-green)](https://github.com/salistito)
 
 ---
 
 <!-- Now Playing -->
-<h2>🥵 Now Playing 🎧</h2>
+<h2>🎶 Now Playing 🎧</h2>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=salix07&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
+---
 <!--
 **salistito/salistito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
