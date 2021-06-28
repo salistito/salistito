@@ -21,13 +21,13 @@ En formato html sería:
 ---
 
  <!-- gif Image -->
-<img src="https://github.com/salistito/salistito/blob/main/media/life_balance.gif" align="right" alt="life_balance.gif" height="auto" width="420" />
+<img src="https://github.com/salistito/salistito/blob/main/media/life_balance.gif" align="right" alt="life_balance.gif" height="auto" width="400" />
 
 <!-- About me -->
 <h2>🥵 About me 🛐</h2>
 
 - I'm currently on fourth year of Computer Science Engineering at FCFM, University of Chile 🍐📚
-- I’m learning Theory of Computation, Data Mining and C++🧠⛏️
+- I’m learning Theory of Computation, Data Mining and C++ 🧠⛏️
 - I'm passionate about creating software, tools to help people, learning new technologies and looking to solve real-world problems 🩹🌎
 
 <!-- Connect with me -->
