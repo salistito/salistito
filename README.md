@@ -9,10 +9,14 @@
   
 [![Last Commit](https://img.shields.io/github/last-commit/salistito/salistito?logo=github&label=Last+Update&color=blue&style=flat-square)](https://github.com/salistito/salistito)
  &nbsp;
+  
+<!-- Comentado para mostarlo en futuras versiones
 ![Profile Views](https://komarev.com/ghpvc/?username=salistito&color=blue&label=Profile+Views)
  &nbsp;
 [![GitHub followers](https://img.shields.io/github/followers/salistito.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/salistito?tab=followers)
 </h3>
+-->
+  
 <!--
 En formato html sería:
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/salistito/salistito?logo=github&label=Last+Update&color=blue&style=flat-square">
@@ -21,13 +25,15 @@ En formato html sería:
 ---
 
  <!-- gif Image -->
+   <!--
 <img src="https://github.com/salistito/salistito/blob/main/media/life_balance.gif" align="right" alt="life_balance.gif" height="auto" width="400" />
+-->
 
 <!-- About me -->
 <h2>🥵 About me 🛐</h2>
 
 - I'm currently on fourth year of Computer Science Engineering at FCFM, University of Chile 🍐📚
-- I’m learning Theory of Computation, Data Mining and C++ 🧠⛏️
+- I’m learning Software Engineering, Multimedia Information Retrieval, Design/Analysis of Algorithms and other things 🤑🦈
 - I'm passionate about creating software, tools to help people, learning new technologies and looking to solve real-world problems 🩹🌎
 
 <!-- Connect with me -->
