@@ -2,7 +2,7 @@
 <h1 align="center">Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 <!-- Introduction -->
-<h3 align="center">I'm Sebastián Salinas, a Computer Science Engineering Student at University of Chile</h3>
+<h3 align="center">I'm Sebastián Salinas and this is a cursed, sarcastic and generic profile README.md</h3>
 
 <!-- Badgets -->
 <h3 align="center">
